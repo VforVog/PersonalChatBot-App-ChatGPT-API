@@ -1,0 +1,49 @@
+♦Cloud Engineer
+
+102k€ -coursera
+121k€ -indeed
+152k€ -glassdoor
+
+-> U talk a lot with customers. U are like Tech Advisor
+-> OS
+-> Networking
+-> Trubleshooting
+
+
+
+♦Cloud Solution Architect
+
+122k€ -coursera
+134k€ -indeed
+160k€ -simplelearn
+196k€ -glassdoor
+
+-> U talk a lot with customers. U are like Tech Advisor
+-> U need to do your own work, workshops -> to showcase it
+
+
+-> Python, Java, C++, javascript
+-> Sql, oracle
+-> Data Security & compliance
+-> Networking
+-> Jira		
+
+
+
+**Kinda same shit! People dont know the differences so much
+-----------------------------------------------------------------
+
+
+-Certifications Fundamentals -> AWS & Google 
+----------
+(*length of certification)
+•Azure -> Fundamentals (for ever) & Network (1 year) & Administrator (1 year)
+
+•Google -> Fundamentals (3 years) & Associate (3 years) & Professional (they give you 300$ credits to start)
+
+•AWS -> Cloud Practitioner (fundamentals 3 years) & Solutions Architect & SysOps Administrator (3 years)
+
+•Fundamentals of AI -> Good to exist
+
+
+-Expertise more when i learn in which platform i wanna move
