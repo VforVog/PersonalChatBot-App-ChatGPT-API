@@ -30,10 +30,6 @@
 
 
 
-**Kinda same shit! People dont know the differences so much
------------------------------------------------------------------
-
-
 -Certifications Fundamentals -> AWS & Google 
 ----------
 (*length of certification)
