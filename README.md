@@ -2,9 +2,9 @@ Personal Virtual Assistant Using ChatGpt API
 <br>
 <i>Just make sure to drop your Pdf or Txt file!</i>
 
-## Theory
-Using the API of Chatgpt now you have your own personal assistant that can reply to questions based on your data!
-Can be implemented as a chatbot in your website as well!
+## 🧠 Theory
+By leveraging the **ChatGPT API**, you can create your own personal assistant that answers questions based on **your custom data**.  
+This approach can also be extended into a **chatbot** for your website or application — providing interactive, context-aware responses tailored to your needs!
 
 
 ## 🚀 Installation
