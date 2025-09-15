@@ -23,6 +23,7 @@ Test reading ChatGPT_Project/data/data.txt file.
 <pre>> python chatgpt.py "What are Stylianos interests"
 Stylianos interests outside of work is traveling and doing calisthenics. </pre>
 
+<br>
 
 ### 2nd Example with pictures
 
