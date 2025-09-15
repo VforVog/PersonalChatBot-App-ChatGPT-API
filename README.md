@@ -1,4 +1,5 @@
 Personal Virtual Assistant Using ChatGpt API 
+<br>
 <i>Just make sure to drop your Pdf or Txt file!</i>
 
 ## Theory
