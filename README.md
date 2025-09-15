@@ -29,12 +29,12 @@ Stylianos interests outside of work is traveling and doing calisthenics. </pre>
 <br>
 <p><b> Data File</b></p><br>
 
-![Image Description](2ndExample/chatgpt.jpeg)
+![Image Description](2ndExample/data.jpeg)
 
 <br>
 <p><b> Results </b></p><br>
 
-![Image Description](2ndExample/data.jpeg)
+![Image Description](2ndExample/chatgpt.jpeg)
 
 
 
