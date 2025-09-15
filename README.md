@@ -18,7 +18,7 @@ Modify constants.py.default to use your own OpenAI API key, and rename it to con
 Place your own data into data/data.txt
 
 ## Example usage
-Test reading data/data.txt file.
+Test reading ChatGPT_Project/data/data.txt file.
 
 <pre>> python chatgpt.py "What are Stylianos interests"
 Stylianos interests outside of work is traveling and doing calisthenics. </pre>
