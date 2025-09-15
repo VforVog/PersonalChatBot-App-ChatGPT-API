@@ -24,6 +24,18 @@ Test reading ChatGPT_Project/data/data.txt file.
 Stylianos interests outside of work is traveling and doing calisthenics. </pre>
 
 
-### 2nd Example
+### 2nd Example with pictures
+
+<br>
+<p><b> Data File</b></p><br>
+
+![Image Description](Architecture/Main.jpeg)
+
+<br>
+<p><b> Results </b></p><br>
+
+![Image Description](Architecture/Main.jpeg)
+
+
 
 
