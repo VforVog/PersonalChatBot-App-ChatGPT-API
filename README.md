@@ -18,8 +18,8 @@ Place your own data into data/data.txt
 ## Example usage
 Test reading data/data.txt file.
 
-<pre> ``` > python chatgpt.py "What are Stylianos interests"
-Stylianos interests outside of work is traveling and doing calisthenics.``` </pre>
+<pre> > python chatgpt.py "What are Stylianos interests"
+Stylianos interests outside of work is traveling and doing calisthenics. </pre>
 
 
 
