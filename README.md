@@ -1,4 +1,5 @@
-Personal Virtual Assistant Using ChatGpt API -> Just make sure to drop your Pdf or Txt file!
+Personal Virtual Assistant Using ChatGpt API 
+<i>Just make sure to drop your Pdf or Txt file!</i>
 
 ## Theory
 Using the API of Chatgpt now you have your own personal assistant that can reply to questions based on your data!
