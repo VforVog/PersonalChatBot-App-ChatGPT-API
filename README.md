@@ -8,7 +8,7 @@ Can be implemented as a chatbot in your website as well!
 ## 🚀 Installation
 Install Langchain and other required packages.
 
-<pre> ``` pip install langchain openai chromadb tiktoken unstructured ``` </pre>
+<pre> pip install langchain openai chromadb tiktoken unstructured </pre>
 
 
 Modify constants.py.default to use your own OpenAI API key, and rename it to constants.py.
